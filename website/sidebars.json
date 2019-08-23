@@ -1,0 +1,10 @@
+{
+  "docs": {
+    "Server Configuration": ["qsetup", "users", "policies", "events", "auditory"],
+    "First Category": ["doc2"],
+    "API": ["doc3"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
